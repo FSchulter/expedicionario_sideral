@@ -1,0 +1,112 @@
+body {
+  background-image: url(../image/up_planet.png);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: bottom, top; 
+}
+
+/* ----CABEÇALHO PÁGINA---- */
+
+header {
+  background-color: rgb(241, 223, 198);
+  width: 65%;
+  border: 2px solid black;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: 25px;
+  padding: 20px;
+}
+
+header h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+header p {
+  text-align: center justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 120%;
+}
+
+/* ----FIM CABEÇALHO PÁGINA---- */
+
+/* ----Div Home index---- */
+
+.container1 {
+  width: 65%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+/* ----Div Home index---- */
+
+/* ----DESCRIÇÕES DAS ARTES VISUAIS COM TEXTOS---- */
+
+.flexbox-article-biclioteca {
+  background-color: rgb(241, 223, 198);
+  border: 2px solid black;
+  height: 300px;
+  width: 1100px;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+
+.image_library {
+  height: 300px;
+  margin: auto;
+  background-position: right;
+}
+
+.image_expedicionarios {
+  height: 300px;
+  margin: auto;
+  background-position: right;
+}
+
+.image_valkarid {
+  height: 300px;
+  margin: auto;
+  background-position: right;
+}
+
+.image_Kael_Droskar {
+  height: 300px;
+  margin: auto;
+  background-position: right;
+}
+
+.descricoes_home {
+  padding: 15px;
+  text-align: justify;
+  width: 70%;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 115%;
+}
+/* ----FIM DESCRIÇÕES DAS ARTES VISUAIS COM TEXTOS---- */
+
+/* ----ASIDE---- */
+.home_aside {
+  background-color: rgb(241, 223, 198);
+  height: 700px;
+  width: 300px;
+  border: 2px solid black;
+  padding: 20px;
+  margin-left: 50px;
+}
+
+.home_footer {
+  background-color: rgb(241, 223, 198);
+  width: 65%;
+  border: 2px solid black;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 25px;
+  font-size: large;
+}
