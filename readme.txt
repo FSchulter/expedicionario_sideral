@@ -3,6 +3,5 @@
 *** Desenvolvido em HTML, CSS e JS ***
 
 Projeto para fins de aprimoramento de desenvolvimento de páginas
-e forma expressão artística.
-
+e expressão artística.
 :D
